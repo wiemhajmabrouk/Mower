@@ -46,4 +46,4 @@ On attend le résultat suivant (position finale des tondeuses) : 1 3 N 5 1 E NB:
 données en entrée sont injectées sous forme de fichier.
 
 # FICHIER D'ENTRE
-le fichier sous trouve sous inputFiles/inputFile.txt
+Le fichier se trouve sous inputFiles/inputFile.txt
